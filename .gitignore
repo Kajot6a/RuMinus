@@ -21,3 +21,7 @@ wheels/
 # Application-generated files
 # columns.txt
 out.csv
+
+main.py
+*.dist
+*kopia.txt
