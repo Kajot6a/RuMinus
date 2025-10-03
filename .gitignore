@@ -23,5 +23,7 @@ wheels/
 out.csv
 
 main.py
-*.dist
-*kopia.txt
+main.dist/
+main.build/
+data — kopia.txt
+data.txt
